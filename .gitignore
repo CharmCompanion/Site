@@ -1,0 +1,14 @@
+# Ignore reports and scripts (keep only public files)
+reports/
+scripts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
