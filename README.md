@@ -1,6 +1,6 @@
 ﻿# It's In Stock
 
-Custom 3D printing business showcasing trending designs printed on-demand.
+Custom 3D printing business. On-demand prints for home, desk, pets, and gaming.
 
 ## Live Site
 - GitHub Pages: https://CharmCompanion.github.io/Site
