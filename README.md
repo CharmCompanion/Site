@@ -1,4 +1,4 @@
-# It's In Stock
+﻿# It's In Stock
 
 Custom 3D printing business showcasing trending designs printed on-demand.
 
@@ -18,3 +18,6 @@ Custom 3D printing business showcasing trending designs printed on-demand.
 
 ## Connect
 Shop coming soon via Shopify integration.
+
+## Deploy
+Static site at repo root. GitHub Pages serves from `/` on `main`.
