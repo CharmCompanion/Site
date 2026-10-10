@@ -1,11 +1,12 @@
-# PrintTrend Studio
+# It's In Stock
 
-Custom 3D printing shop showcasing trending designs printed on-demand.
+Custom 3D printing business showcasing trending designs printed on-demand.
 
-## 🚀 Live Site
-https://CharmCompanion.github.io/Site
+## Live Site
+- GitHub Pages: https://CharmCompanion.github.io/Site
+- Custom domain (target): https://itsinstock.com
 
-## 📦 Products
+## Products
 - Custom Cookie Cutters
 - Lithophane Lamps & Frames
 - Articulated Flexi Animals
@@ -15,5 +16,5 @@ https://CharmCompanion.github.io/Site
 - Pet Accessories
 - Board Game Inserts
 
-## 🌐 Connect
+## Connect
 Shop coming soon via Shopify integration.
